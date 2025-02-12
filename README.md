@@ -1,3 +1,8 @@
+# Skills & Tools Covered
+Neural Networks
+Deep Learning
+Keras
+Image Recognition
 # Implementing-a-Image-classification-neural-network-to-classify-Street-House-View-Numbers
 SVHN is a real-world image dataset for object recognition, requiring specific data formatting and addressing the complex task of digit recognition in natural scenes. It is derived from house numbers in Google Street View images. The project aims to implement an image classification pipeline using k-Nearest Neighbors and a deep neural network.
 
