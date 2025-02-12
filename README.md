@@ -1,10 +1,12 @@
 # Implementing-a-Image-classification-neural-network-to-classify-Street-House-View-Numbers
 SVHN is a real-world image dataset for object recognition, requiring specific data formatting and addressing the complex task of digit recognition in natural scenes. It is derived from house numbers in Google Street View images. The project aims to implement an image classification pipeline using k-Nearest Neighbors and a deep neural network.
+
 Part A: Signal Quality Prediction
 
 Context: A communications equipment manufacturer has a product that emits informative signals.
 Task: Build a machine learning model to predict the signal quality based on various parameters.
 Potential Challenges: This will depend on the specific parameters available. It could involve dealing with noisy data, time series analysis if the signal quality varies over time, and potentially needing to engineer relevant features from the raw signal data.
+
 Part B: Multi-Digit Number Recognition in Street View Images
 
 Context: Recognizing multi-digit numbers in street-level photos is crucial for mapmaking (e.g., Google Street View).
